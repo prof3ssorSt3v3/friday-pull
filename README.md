@@ -10,7 +10,7 @@ Now it is your turn.
 - create a new branch with your name `git checkout -b [your name]`
 - add a Markdown file with your name
 - add a note inside that file
-- `git add`, `git commit`, and `git push` your new branch back to the repo.
+- `git add`, `git commit`, and `git push origin [your name]` your new branch back to the repo.
 - Got to the repo and create a pull request asking to merge your branch into `main`.
 
 After you have done that, try to repeat the process with your partner for the React-NextJS assignment.
